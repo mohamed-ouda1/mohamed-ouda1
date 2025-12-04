@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python Developer & Data analyst | AI Automation | Data analysis | Python, Pandas, SQL | Power BI | Data Cleaning & Visualization | n8n Automation<br>
+I am Mohamed Ouda, a Data Analyst and Python Developer specializing in transforming raw data into practical solutions through advanced analysis, intelligent automation, and professional data visualization. I have strong experience in data analysis using Python, Pandas, NumPy, and SQL, and in building high-quality dashboards using Power BI. I also work on automating workflows using n8n and integrating AI services to deliver higher efficiency and more accurate results.>
 
 
 ## 🌐 Socials:
